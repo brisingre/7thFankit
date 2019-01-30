@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<dirinfo>
+<files>
+<item key='BanishGreen_takeGold.ai20181010123709' />
+<item key='Exploration_card.ai20181010123709' />
+<item key='Adventure_card_gold.ai20181010123709' />
+<item key='Adventure_card_green.ai20181010123709' />
+<item key='Bad_news.ai20181010123709' />
+<item key='Durability_1.ai20181010123709' />
+<item key='Durability_2.ai20181010123709' />
+<item key='Durability_3.ai20181010123709' />
+<item key='Durability_4.ai20181010123709' />
+<item key='Durability_5.ai20181010123709' />
+<item key='Durability_6.ai20181010123709' />
+<item key='Discard_Exploration_take_adventure.ai20181010123709' />
+<item key='Quest_Item_card.ai20181010123709' />
+<item key='Skill_card.ai20181010123709' />
+<item key='State_character_card.ai20181010123709' />
+<item key='Bonus_companion_sidequest_card.ai20181010123709' />
+<item key='Curse_card.ai20181010123710' />
+<item key='Weather_card.ai20181010123710' />
+<item key='Exploration_Area_icon.ai20181010123710' />
+<item key='Exploration_direction_icon.ai20181010123710' />
+<item key='palme_competence_avancee.ai20181010123710' />
+<item key='Move_figures_icon.ai20181010123710' />
+<item key='Stairs_action.ai20181010123710' />
+<item key='Locked_action.ai20181010123710' />
+<item key='Forbidden_action.ai20181010123710' />
+<item key='Item_card.ai20181010123710' />
+<item key='Item_dur_1.ai20181010123710' />
+<item key='Item_dur_3.ai20181010123710' />
+<item key='Item_dur_2.ai20181010123710' />
+<item key='Item_dur_4.ai20181010123710' />
+<item key='Item_dur_5.ai20181010123710' />
+<item key='Item_dur_6.ai20181010123710' />
+<item key='Bamboo_resource.ai20181010123710' />
+<item key='Wood_resource.ai20181010123710' />
+<item key='Fire_resource.ai20181010123710' />
+<item key='Foliage_resource.ai20181010123710' />
+<item key='Vine_resource.ai20181010123710' />
+<item key='Bone_resource.ai20181010123710' />
+<item key='Stone_resource.ai20181010123710' />
+<item key='Poison_resource.ai20181010123710' />
+<item key='Temporary_event_card.ai20181010123710' />
+<item key='7_success.ai20181010123710' />
+<item key='success.ai20181010123710' />
+<item key='Curse_clue_title.ai20181010123710' />
+<item key='Event_title.ai20181010123710' />
+<item key='7_icon.ai20181012195344' />
+<item key='7.ai20181012195502' />
+<item key='Action_card_Cost.ai20181010123709' />
+<item key='Blue_flag_large_icon.ai20181012200136' />
+<item key='Blue_flag_small_icon.ai20181012200137' />
+<item key='Violet_flag_small_icon.ai20181012200137' />
+<item key='Violet_flag_large_icon.ai20181012200137' />
+<item key='permanent_event_arrow.psd20181012200137' />
+</files>
+</dirinfo>
